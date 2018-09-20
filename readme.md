@@ -18,6 +18,7 @@ int[] data2 = new int[2];
 ```
 
 ## Java Method 
+```java
 /**
  *
  * @author arrizaqu
@@ -73,7 +74,6 @@ public class Karyawan {
         k.info();
     }
 }
-
 ```
 
 ## Array VS Variable 
